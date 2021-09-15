@@ -1,3 +1,3 @@
 # **First Post!**
 
-Hi! This is my _first post_ .
+Hi! This is my _first post_.

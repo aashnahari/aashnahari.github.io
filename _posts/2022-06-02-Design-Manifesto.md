@@ -14,7 +14,7 @@ This would be displayed on a web page. However, the QR code to that website woul
 ## Description:
 
 The first point is based on class discussions about accessibility. Since everyone can only benefit from an accessible design, it only harms people to have designs that everyone can’t access. In the UK accessibility posters, many suggestions for different groups of people overlap, and rarely do they contradict each other, so it wouldn’t be too difficult to include the entire possible user base.
-https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf
+[UK Posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf)
 
 The second point about adaptability is something we have mentioned a few times in class. Since the world and its ideas are constantly changing, it’s important that designs are able to change alongside it with minimal effort. In the design process, care should be taken to make sure that the design will be able to be changed by the person themselves in the future, or others, through detailed documentation or other techniques.
 
